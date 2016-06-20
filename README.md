@@ -1,11 +1,11 @@
 # s3storage
 
-Aws S3 storage implementation of [docstore.Storer](https://github.com/docstore/service)
+Aws S3 storage implementation of [docstore.Storer](https://github.com/docstore/storage)
 
 
 ## Installation
 ```
-go get github.com/dmashuda/service
+go get github.com/docstore/storage
 go get github.com/docstore/s3storage
 ```
 
